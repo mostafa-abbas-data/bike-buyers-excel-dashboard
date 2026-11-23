@@ -78,7 +78,7 @@ The dashboard sheet shows three charts built from pivot tables, with slicers for
 - Customers by age bracket and purchase decision
 - Customers by commute distance and purchase decision
 
-<!-- Add a screenshot of the dashboard: save it as dashboard.png in this folder, then replace this line with: ![Dashboard](dashboard.png) -->
+![Uploading Bike_Sales_Dashboard_Professional.png…]()
 
 ## Key Findings
 
